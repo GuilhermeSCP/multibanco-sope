@@ -1,0 +1,15 @@
+   DATA      HORA   PROGRAMA  OPERACAO
+2012-05-25 19:50:07 SERVER    Server arrancou
+2012-05-25 20:00:16 SERVER    Server arrancou
+2012-05-25 22:23:26 SERVER    Server arrancou
+2012-05-25 22:23:26 SERVER    Server encerrou
+2012-05-25 22:23:46 SERVER    Server arrancou
+2012-05-25 22:23:46 SERVER    Server encerrou
+2012-05-25 22:24:37 SERVER    Server arrancou
+2012-05-25 22:36:53 SERVER    Server arrancou
+2012-05-25 23:15:06 SERVER    Server arrancou
+2012-05-25 23:27:17 SERVER    Server arrancou
+2012-05-25 23:40:32 SERVER    Server arrancou
+2012-05-26 13:16:55 SERVER    Server arrancou
+2012-05-26 13:17:49 SERVER    Pedido de encerramento do servidor
+2012-05-26 13:17:49 SERVER    Server encerrou
